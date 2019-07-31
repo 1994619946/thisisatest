@@ -1,1 +1,1 @@
-{"_id":"5d4179c3120c630bca6a0bcf","name":"thisisatest","collections":{}}
+{"name":"thisisatest","collections":[{"_id":"5d4179d7120c630bca6a0bd0","user":"5d41721966cd667b38ad26b6","project":"thisisatest","collectionName":"data","structure":{"name":"String"},"createdAt":"2019-07-31T11:21:59.508Z","updatedAt":"2019-07-31T11:21:59.508Z","__v":0}]}
